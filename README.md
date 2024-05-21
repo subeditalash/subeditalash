@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subeditalash&label=Profile%20views&color=0e75b6&style=flat" alt="subeditalash" /> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **SOC**
+  
+-##    All of my blog are available at []
 
-- 👨‍💻 All of my projects are available at [https://github.com/subeditalash](https://github.com/subeditalash)
+-## 👨‍💻 All of my projects are available at [https://github.com/subeditalash](https://github.com/subeditalash)
 
 - 💬 Ask me about **react**
 
