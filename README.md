@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **SOC**
   
--##    All of my blog are available at []
+-    All of my blog are available at []
 
--## 👨‍💻 All of my projects are available at [https://github.com/subeditalash](https://github.com/subeditalash)
+- 👨‍💻 All of my projects are available at [https://github.com/subeditalash](https://github.com/subeditalash)
 
 - 💬 Ask me about **react**
 
